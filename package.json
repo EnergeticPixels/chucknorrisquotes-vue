@@ -1,0 +1,39 @@
+{
+  "name": "vuejs-auth0",
+  "version": "0.0.1",
+  "description": "chuck norris quotes with vuejs and auth0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnergeticPixels/chucknorrisquotes-vue.git"
+  },
+  "keywords": [
+    "vuejs",
+    "auth0",
+    "jwt",
+    "chucknorris"
+  ],
+  "author": "Anthony Jackman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnergeticPixels/chucknorrisquotes-vue/issues"
+  },
+  "homepage": "https://github.com/EnergeticPixels/chucknorrisquotes-vue#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0",
+    "vue-hot-reload-api": "^2.2.4",
+    "vue-html-loader": "^1.2.4",
+    "vue-loader": "^13.5.0",
+    "vue-template-compiler": "^2.5.9",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
