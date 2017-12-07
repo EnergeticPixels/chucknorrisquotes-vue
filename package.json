@@ -1,9 +1,10 @@
 {
   "name": "vuejs-auth0",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "chuck norris quotes with vuejs and auth0",
-  "main": "app.js",
+  "main": "./src/index.js",
   "scripts": {
+    "dev": "webpack-dev-server --inline --hot",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
